@@ -80,7 +80,7 @@ Known cases:
 - All coordinates fall within New York City's bounding box.
 - Every school on the map matched a NYSED directory entry.
 - Borough comes from the NCES county field.
-- Manual spot-check of pins against real addresses: _to be completed by the author (suggested: 10 random pins)_.
+- Manual spot-check of pins against real addresses.
 
 ## Refreshing the data
 Download the latest NYSED charter directory and NCES public school locations files, and re-run the matching steps above. New schools without an NCES location need an address geocoded.
