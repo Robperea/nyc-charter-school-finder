@@ -2,7 +2,7 @@
 
 An interactive map of public charter schools in New York City. Success Academy schools are highlighted. You can search by name, filter by borough, show Success Academy only, or sort schools by distance from you.
 
-**Live map:** _add your GitHub Pages link here after publishing_
+**Live map:** https://robperea.github.io/nyc-charter-school-finder/
 
 ## Scope
 Operating public charter schools in the five boroughs that appear in the official NYSED directory **and** have a location in the NCES 2024-25 school locations file. Each school is placed at its primary address, so this is **not** every campus or satellite site.
